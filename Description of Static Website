@@ -1,0 +1,28 @@
+This is a beginner-friendly static website created using HTML, CSS, and JavaScript. It serves as a personal introduction page with a clean layout, navigation bar, and basic interactivity. The site demonstrates the structure of a typical webpage and how styling and scripting enhance the user experience.
+✅ Key Features
+Clean and Responsive Design using CSS
+
+Navigation Bar with placeholder links
+
+Interactive Button using JavaScript
+
+Well-structured Code with sections like Header, Main, Footer
+
+Suitable for portfolio, landing page, or learning project
+
+👩‍💻 Technologies Used
+HTML5 – for page structure
+
+CSS3 – for styling and layout
+
+JavaScript – for user interaction (button click message)
+
+🎯 Purpose of the Project
+This project is designed to:
+
+Help beginners understand how static websites work
+
+Practice front-end development basics
+
+Serve as a foundation for more advanced web projects
+
